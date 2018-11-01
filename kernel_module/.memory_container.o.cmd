@@ -1,0 +1,1 @@
+cmd_/home/ishan/P2/CSC501-P2/kernel_module/memory_container.o := ld -m elf_x86_64  -z max-page-size=0x200000   -r -o /home/ishan/P2/CSC501-P2/kernel_module/memory_container.o /home/ishan/P2/CSC501-P2/kernel_module/src/core.o /home/ishan/P2/CSC501-P2/kernel_module/src/ioctl.o /home/ishan/P2/CSC501-P2/kernel_module/interface.o 
